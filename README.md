@@ -10,6 +10,5 @@
 
 ###   JavaScript is easy to learn.
 
-###   This tutorial will teach you JavaScript from basic to advanced.
 
 -----------------------------------------------------------------------------------------------------------------------------
